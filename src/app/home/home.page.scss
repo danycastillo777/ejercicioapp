@@ -1,0 +1,24 @@
+.custom-icon {
+  font-size: 36px;
+}
+
+.date {
+  text-align: center;
+  color: fuchsia;
+  font-size: 22px;
+}
+
+p {
+  font-size: 10px;
+  text-align: center;
+}
+
+.gradent {
+  --background: linear-gradient(
+    197deg,
+    rgb(17, 30, 212) 0%,
+    rgb(36, 68, 155) 13.5%,
+    rgb(194, 61, 187) 33.33%,
+    rgb(0, 0, 0) 100%
+  ) !important;
+}
